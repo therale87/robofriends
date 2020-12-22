@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robofriendsnpm%20install%20--save%20gh-pages/static/css/main.bb5cc4b0.chunk.css",
+    "main.js": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/main.5e0a0d34.chunk.js",
+    "main.js.map": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/main.5e0a0d34.chunk.js.map",
+    "runtime-main.js": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/runtime-main.ed096ad9.js",
+    "runtime-main.js.map": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/runtime-main.ed096ad9.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robofriendsnpm%20install%20--save%20gh-pages/static/css/2.31461e4f.chunk.css",
+    "static/js/2.8b603db1.chunk.js": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/2.8b603db1.chunk.js",
+    "static/js/2.8b603db1.chunk.js.map": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/2.8b603db1.chunk.js.map",
+    "static/js/3.c2e3a7cf.chunk.js": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/3.c2e3a7cf.chunk.js",
+    "static/js/3.c2e3a7cf.chunk.js.map": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/3.c2e3a7cf.chunk.js.map",
+    "index.html": "/robofriendsnpm%20install%20--save%20gh-pages/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robofriendsnpm%20install%20--save%20gh-pages/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.bb5cc4b0.chunk.css.map": "/robofriendsnpm%20install%20--save%20gh-pages/static/css/main.bb5cc4b0.chunk.css.map",
+    "static/js/2.8b603db1.chunk.js.LICENSE.txt": "/robofriendsnpm%20install%20--save%20gh-pages/static/js/2.8b603db1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriendsnpm%20install%20--save%20gh-pages/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed096ad9.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.8b603db1.chunk.js",
+    "static/css/main.bb5cc4b0.chunk.css",
+    "static/js/main.5e0a0d34.chunk.js"
+  ]
+}
